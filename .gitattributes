@@ -1,0 +1,18 @@
+# Normalise text to LF in the repository, native endings in the working copy.
+* text=auto
+
+# Files git must never rewrite. Git's text/binary guess looks for NUL bytes in
+# the first 8000, which a small PDF can lack - so it mangled the sample PDF.
+*.pdf   binary
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.gif   binary
+*.ico   binary
+*.zip   binary
+*.db    binary
+*.docx  binary
+*.xlsx  binary
+
+# Keep shell scripts LF even on Windows, or they break under bash.
+*.sh    text eol=lf
