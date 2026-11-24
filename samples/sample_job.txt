@@ -1,0 +1,22 @@
+Java Backend Engineer - QualiZeal (Hyderabad)
+
+About the role
+We are hiring a backend engineer to build and scale microservices that power
+our quality-engineering platform. You will own services end to end, from design
+through deployment and on-call.
+
+Required skills
+- 2+ years of professional experience building backend services in Java
+- Strong Spring Boot and Hibernate, with a solid grasp of REST API design
+- Hands-on SQL with MySQL or PostgreSQL, including query tuning
+- Experience deploying to AWS and containerising with Docker
+- Unit testing discipline with JUnit and Mockito
+
+Nice to have
+- Kubernetes in production
+- Apache Kafka for event-driven workflows
+- Terraform or other infrastructure as code
+- Exposure to Grafana and Prometheus for observability
+
+What we offer
+Competitive salary, a strong engineering culture, and real ownership.

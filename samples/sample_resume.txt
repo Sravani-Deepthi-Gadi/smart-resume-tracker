@@ -1,0 +1,33 @@
+Gadi Sravani Deepthi
+Hyderabad, India | +91 98765 43210 | sravani.deepthi@example.com
+linkedin.com/in/sravani-deepthi | github.com/Sravani-Deepthi-Gadi
+
+SUMMARY
+Final-year B.Tech student with hands-on experience building REST APIs and
+data-processing services in Python and Java. Comfortable with SQL databases,
+Docker and CI/CD pipelines.
+
+EDUCATION
+B.Tech, Computer Science - Amrita Vishwa Vidyapeetham (2022 - 2026)
+Intermediate - Narayana Junior College (2020 - 2022)
+
+EXPERIENCE
+Programmer Analyst Intern, Cognizant, Kochi
+Mar 2026 - Jul 2026
+- Built REST APIs with Spring Boot and Hibernate against a MySQL database.
+- Wrote pytest and JUnit suites that raised module coverage to 85 percent.
+- Containerised two services with Docker and wired them into Jenkins CI/CD.
+
+TECHNICAL SKILLS
+Languages: Python, Java, SQL, JavaScript
+Backend: FastAPI, Spring Boot, REST API, Microservices
+Databases: MySQL, PostgreSQL, MongoDB
+Tools: Git, Docker, Jenkins, Postman, Linux
+Practices: Data Structures, OOP, Agile
+
+PROJECTS
+Smart Resume Tracker - FastAPI service that parses resumes and scores them
+against job descriptions using TF-IDF and a skill taxonomy.
+
+CERTIFICATIONS
+AWS Certified Cloud Practitioner
